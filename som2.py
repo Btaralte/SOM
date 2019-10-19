@@ -1,4 +1,4 @@
-#Author:Lalbiakthuama(18CE10034),Indrajeet(18CE10032),Jalaj Patidar(18CE10033) ,Civil Engineering student, IIT KGP
+#Author:Lalbiakthuama(18CE10034),Civil Engineering student, IIT KGP
 import numpy as np
 import random
 import math
